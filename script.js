@@ -1,4 +1,4 @@
-/ Theme Switcher Logic
+/ Theme Switcher  Logic
 const themeToggleBtn = document.getElementById('themeToggle');
 const themeIcon = document.getElementById('themeIcon');
 const htmlElement = document.documentElement;
